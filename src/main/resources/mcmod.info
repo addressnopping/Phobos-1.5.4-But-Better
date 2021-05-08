@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "phobosbetter",
+    "name": "Phobos But Better!",
+    "description": "1.12.2 PvP Client",
+    "version": "1.5.4",
+    "mcversion": "1.12.2",
+	"logoFile": "phobos.png",
+    "url": "https://github.com/PeterPePem/Phobos-1.5.4-But-Better",
+    "updateUrl": "",
+    "authorList": ["3arthqu4ke","oHare","Crystallinqq", "Megyn", "Peterrr__"],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
